@@ -27,9 +27,9 @@
       <div class="footer-social">
         <div class="footer-container clearfix">
           <div class="social-list">
-            <a class="social rss" target="blank" href="https://tycoding.cn/">BLOG</a>
-            <a class="social zhihu" target="blank" href="https://www.zhihu.com/people/tomo-83-82/activities">ZHIHU</a>
-            <a class="social github" target="blank" href="https://github.com/TyCoding">GITHUB</a>
+            <a class="social rss" target="blank" href="http://anyu.store/">BLOG</a>
+            <a class="social zhihu" target="blank" href="https://www.gitee.com/">GITEE</a>
+            <a class="social github" target="blank" href="https://github.com/">GITHUB</a>
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@
                 <p>Theme is <a href="https://github.com/chakhsu/pinghsu" target="_blank">Pinghsu</a> by <a
                   href="https://www.linpx.com/" target="_blank">Chakhsu</a></p>
                 <p>Powered by <a href="http://www.typecho.org" target="_blank" rel="nofollow">Typecho</a></p>
-                <p>© 2019 <a href="https://tycoding.cn/">TyCoding</a></p></div>
+                <p>© 2019 <a href="https://anyu.store/">BLOG</a></p></div>
             </div>
           </div>
           <div class="meta-item meta-posts">

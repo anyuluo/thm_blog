@@ -176,7 +176,7 @@ export const constantRoutes = [
     component: Layout,
     children: [
       {
-        path: 'https://github.com/TyCoding',
+        path: 'https://github.com/',
         meta: { title: 'Github', icon: 'link' }
       }
     ]

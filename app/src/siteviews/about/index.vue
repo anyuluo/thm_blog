@@ -3,12 +3,12 @@
     <article class="main-content page-page">
       <div class="post-header"><h1 class="post-title" itemprop="name headline"> About </h1>
         <div class="post-data">
-          <time datetime="2016-01-28T14:07:00+08:00" itemprop="datePublished">Published on Jan 28, 2018</time>
+          <time datetime="2020-01-01T14:07:00+08:00" itemprop="datePublished">Published on Jan 01, 2020</time>
         </div>
       </div>
       <div id="post-content" class="post-content"><h3>Hello</h3>
-        <p>我是 TyCoding ，Java后端练习生</p>
-        <p><a href="https://github.com/TyCoding/tumo" target="_blank">Tumo</a> 博客项目起初是自己的一个练习Demo</p>
+        <p>我们是 THM ，大四毕业班</p>
+        <p><a href="https://github.com/" target="_blank">THM</a> 博客项目起初是自己的一个练习Demo</p>
         <p>后来，逐渐学习了新技术（SpringBoot、Vue、Node...），便想着能将新技术运用到这个项目中</p>
         <p>但苦于技术太菜，在项目中埋下了很多坑，很对不起大家。</p>
         <P>这次花了几天时间重构项目，采用全新的LayUI绘制，相比Vue，LayUI更适合这种前后端不分离的项目</P>
@@ -17,10 +17,10 @@
         <p>马不停蹄赶来的路上...</p>
         <p>如果你想跟我做朋友的话，必须欢迎，你可以通过博客页底的社交链接联系到我···</p>
         <ul>
-          <li><p><a href="https://tycoding.cn/" target="_blank">Blog</a></p></li>
-          <li><p><a href="https://github.com/TyCoding" target="_blank">Github</a></p></li>
-          <li><p><a href="https://www.zhihu.com/people/tomo-83-82/activities" target="_blank">zhihu</a></p></li>
-          <li><p>QQ Group: 671017003</p></li>
+          <li><p><a href="http://anyu.store/" target="_blank">Blog</a></p></li>
+          <li><p><a href="https://github.com/" target="_blank">Github</a></p></li>
+          <li><p><a href="https://www.gitee.com/" target="_blank">Gitee</a></p></li>
+          <li><p>QQ Group: 743574235</p></li>
         </ul>
       </div>
     </article>

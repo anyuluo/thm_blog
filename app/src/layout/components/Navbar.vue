@@ -21,7 +21,7 @@
               个人中心
             </el-dropdown-item>
           </router-link>
-          <a target="_blank" href="https://github.com/TyCoding/tumo-vue/">
+          <a target="_blank" href="https://github.com/">
             <el-dropdown-item>项目源码</el-dropdown-item>
           </a>
           <el-dropdown-item divided>

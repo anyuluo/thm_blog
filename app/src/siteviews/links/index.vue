@@ -4,7 +4,7 @@
       <div class="post-header">
         <h1 class="post-title" itemprop="name headline"> Links </h1>
         <div class="post-data">
-          <time datetime="2016-01-30T20:58:00+08:00" itemprop="datePublished">Published on Jan 30, 2019</time>
+          <time datetime="2020-01-01T20:58:00+08:00" itemprop="datePublished">Published on Jan 1, 2020</time>
         </div>
       </div>
       <div id="post-content" class="post-content">
@@ -22,8 +22,8 @@
         </blockquote>
         <p>备注：默认申请友情链接均为内页（当前页面）</p>
         <h3>基本信息</h3>
-        <pre><code class="lang-md hljs markdown">网站名称：Tumo
-网站地址：www.tumo.tycoding.cn</code></pre>
+        <pre><code class="lang-md hljs markdown">网站名称：THM
+网站地址：anyu.store</code></pre>
         <p>暂时先这样，同时欢迎互换友链，这个页面留言即可。 ^_^</p>
         <p>还有，我会不定时对无法访问的网址进行清理，请保证自己的链接长期有效。</p></div>
     </article>

@@ -5,7 +5,7 @@
       <div>
         <img :src="bear"/>
       </div>
-      <h3 class="title">Tumo Blog</h3>
+      <h3 class="title">THM Blog</h3>
       <el-form-item prop="username">
                 <span class="svg-container">
                   <svg-icon icon-class="user"/>
@@ -50,7 +50,7 @@
         bear: 'http://cdn.tycoding.cn/normal.0447fe9.png',
 
         loginForm: {
-          username: 'tycoding',
+          username: 'admin',
           password: '123456'
         },
         loading: false,
@@ -148,7 +148,7 @@
     height: 100%;
     width: 100%;
     background-color: #b8e5f8;
-    background-image: url("http://cdn.tycoding.cn/db29b0fbd2f78dd8c1b7.db29b0f.png");
+    background-image: url("../../../public/bg.jpg");
     .login-form {
       position: absolute;
       left: 0;

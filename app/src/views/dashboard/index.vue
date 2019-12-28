@@ -12,7 +12,7 @@
                   <span id="welcome-message" v-html="welcomeMessage"></span>
                 </div>
                 <div class="user-login-info">
-                  上次登录时间：<span id="last-login-time">2019-09-24T08:45:36.000+0000</span>
+                  上次登录时间：<span id="last-login-time">2020-01-01T08:45:36.000+0000</span>
                 </div>
               </div>
             </div>
@@ -106,7 +106,7 @@
           </el-tabs>
         </el-card>
       </el-col>
-      <el-col :xs="24" :sm="24" :lg="12">
+      <!-- <el-col :xs="24" :sm="24" :lg="12">
         <el-row>
           <el-col>
             <el-card class="project-card">
@@ -118,7 +118,7 @@
                 <el-row>
                   <el-col class="project-item" :xs="12" :sm="12" :lg="12">
                     <div class="project-name">
-                      <a target="_blank" href="https://github.com/TyCoding/tumo">Tumo</a>
+                      <a target="_blank" href="https://github.com/">Tumo</a>
                     </div>
                     <div class="project-desc">
                       Spring Boot 2.1.3 &amp; Shiro 博客系统。
@@ -126,7 +126,7 @@
                   </el-col>
                   <el-col class="project-item" :xs="12" :sm="12" :lg="12">
                     <div class="project-name">
-                      <a target="_blank" href="https://github.com/TyCoding/permission">Permission</a>
+                      <a target="_blank" href="https://github.com/">Permission</a>
                     </div>
                     <div class="project-desc">
                       Spring Boot &amp; Shiro 权限管理系统。
@@ -153,7 +153,7 @@
                 </el-row>
               </div>
             </el-card>
-          </el-col>
+          </el-col> -->
           <el-col>
             <el-card class="info-card">
               <div slot="header">
@@ -181,19 +181,19 @@
                     博客源码
                   </div>
                   <div class="info-text">
-                    <a href="https://github.com/TyCoding/tumo" target="_blank">https://github.com/TyCoding/tumo</a>
+                    <a href="https://github.com/" target="_blank">https://github.com</a>
                   </div>
                 </el-card>
                 <el-card class="info-item-card" shadow="never">
                   <div class="info-header">
-                    联系我
+                    联系我们
                   </div>
                   <div class="info-text">
-                    Blog：<a href="http://tycoding.cn" target="_blank">http://tycoding.cn</a>
+                    Blog：<a href="http://anyu.store" target="_blank">http://anyu.store</a>
                     <br/>
-                    Github：<a href="https://github.com/TyCoding/" target="_blank">https://github.com/TyCoding/</a>
+                    Github：<a href="https://github.com/" target="_blank">https://github.com/</a>
                     <br/>
-                    QQ Group: 671017003
+                    QQ Group: 743574235
                   </div>
                 </el-card>
               </div>
