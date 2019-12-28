@@ -40,13 +40,13 @@ module.exports = {
       // change xxx-api/login => mock/login
       // detail: https://cli.vuejs.org/config/#devserver-proxy
       [process.env.VUE_APP_BASE_API]: {
-        target: `http://127.0.0.1:${port}/`,
+        target: `http://anyu.store:${port}/`,
         changeOrigin: true,
         pathRewrite: {
           ['^' + process.env.VUE_APP_BASE_API]: ''
         }
       }
-    },
+    }
   },
   configureWebpack: {
     // provide the app's title in webpack's name field, so that
