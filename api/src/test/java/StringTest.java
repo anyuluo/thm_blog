@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author tycoding
+ * @author thm
  * @date 2019-09-11
  */
 public class StringTest {
@@ -15,7 +15,7 @@ public class StringTest {
 
     @Test
     public void split() {
-        String html = "<p>接着上一篇文章：<a href=\"http://tycoding.cn/2018/10/13/seckill-service/\">SpringBoot实现Java高并发之Service层开发</a>，";
+        String html = "<p>接着上一篇文章：<a href=\"http://thm.cn/2018/10/13/seckill-service/\">SpringBoot实现Java高并发之Service层开发</a>，";
         String s = Jsoup.parse(html).text();
         System.out.println(s);
     }

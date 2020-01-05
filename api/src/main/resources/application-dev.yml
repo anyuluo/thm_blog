@@ -9,4 +9,4 @@ spring:
 # 打印sql
 #logging:
 #  level:
-#    cn.tycoding.system.mapper: DEBUG
+#    cn.thm.system.mapper: DEBUG

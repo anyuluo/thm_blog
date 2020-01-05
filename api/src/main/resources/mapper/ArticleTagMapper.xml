@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="cn.tycoding.system.mapper.ArticleTagMapper">
+<mapper namespace="cn.thm.system.mapper.ArticleTagMapper">
 
     <!-- 根据文章ID查询其关联的标签信息 -->
     <select id="findByArticleId" resultType="SysTag">

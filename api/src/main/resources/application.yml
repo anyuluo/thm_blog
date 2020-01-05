@@ -18,7 +18,7 @@ spring:
       max-request-size: 100MB
 
 mybatis-plus:
-  type-aliases-package: cn.tycoding.system.entity
+  type-aliases-package: cn.thm.system.entity
   mapper-locations: classpath:mapper/*.xml
   configuration:
     jdbc-type-for-null: null
